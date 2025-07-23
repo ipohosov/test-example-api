@@ -1,3 +1,4 @@
 /report.html
 /.venv/
 .idea/
+.env
